@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cerevro-cf50f": {
+      "hosting": {
+        "staging": [
+          "cerevro-pruebas"
+        ],
+        "prod": [
+          "cerevro-cf50f"
+        ]
+      }
+    }
+  }
+}

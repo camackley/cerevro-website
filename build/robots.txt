@@ -1,0 +1,5 @@
+User-agent: *
+Allow: *
+Sitemap: https://www.cerevro.app/sitemap.xml
+
+# by Cerevro.app
